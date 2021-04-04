@@ -1,0 +1,52 @@
+*{margin: 0%,padding: 0%;}
+header{
+	width: 100%;
+	height:100vh;
+	background-image: linear-gradient( #efff, #00FFFF);
+	font-family:  Arial;
+}
+.navsection{
+	width: 100%;
+	height:100vh;
+	text-align: center;
+	font-family:  Arial;
+}
+.logo{
+	width: 20%;
+	height:5vh;
+	background-image: linear-gradient( #fff, #fc46aa);
+	opacity: 90%;
+	font-family:  Arial;
+}
+.leftsection{
+	width: 100%;
+	height: 80vh;
+	font-family:  Arial;
+}
+.contact{
+	width: 10%;
+	height: 10vh;
+	border-radius: 25px;
+    background: #73AD21 , #00FFFF;
+    padding: 20px;
+    font-family:  Arial;
+}
+.github{
+	width: 10%;
+	height: 10vh;
+	font-family:  Arial;
+	border-radius: 10px;
+	background: #73AD21 , #00FFFF;
+}
+.youtube{
+	width: 10%;
+	height: 10vh;
+	font-family:  Arial;
+	border-radius: 10px;
+	background: #73AD21 , #00FFFF;
+}
+.buttons{
+	text-align: right;
+	font-family:  Arial;
+	font-size: 50px;
+}
